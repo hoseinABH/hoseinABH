@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-## My name is Hosein, a Front-End developer with 2 years of experience. 
+# My name is Hosein, a self-learner Front-End developer, interested in learning new technologies. 
 
 
