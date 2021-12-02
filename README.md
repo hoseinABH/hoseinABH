@@ -9,7 +9,7 @@ My name is Hosein, a self-learner Front-End developer, interested in learning ne
 <br />
 <br />
 <a href="https://github.com/hoseinABH98">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinABH98&theme=midnight-purple&langs_count=4" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinABH98&theme=midnight-purple" />
 </a>
 
 
