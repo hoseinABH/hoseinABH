@@ -7,7 +7,7 @@ My name is Hosein, a self-learner Front-End developer, interested in learning ne
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hoseinABH98&show_icons=true&theme=midnight-purple&langs_count=8" />
 </a>
 <a href="https://github.com/hoseinABH98">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinABH98&theme=midnight-purple" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinABH98&theme=midnight-purple&langs_count=4" />
 </a>
 
 
