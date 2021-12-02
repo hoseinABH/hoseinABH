@@ -3,12 +3,16 @@
 My name is Hosein, a self-learner Front-End developer, interested in learning new technologies. 
 
 
-<a href="https://github.com/hoseinABH98/github-readme-stats">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hoseinABH98&show_icons=true&theme=midnight-purple&langs_count=8" />
+<a width='100%' href="https://github.com/hoseinABH98/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinABH98&show_icons=true&theme=midnight-purple&langs_count=8" />
 </a>
 <br />
+<br />
+<br />
+<br />
+<br />
 <a href="https://github.com/hoseinABH98">
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinABH98&theme=midnight-purple&langs_count=4" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseinABH98&theme=midnight-purple&langs_count=4" />
 </a>
 
 
