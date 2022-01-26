@@ -3,9 +3,7 @@
 My name is Hosein, a self-learner Front-End developer, interested in learning new technologies. 
 
 
-<a width='100%' href="https://github.com/hoseinABH98/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoseinABH98&show_icons=true&theme=midnight-purple&langs_count=8" />
-</a>
+
 <br />
 <br />
 <a href="https://github.com/hoseinABH98">
