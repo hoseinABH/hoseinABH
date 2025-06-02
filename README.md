@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hosein,Someone who turns ideas into code in a clean way.
+I'm Hosein, Someone who turns ideas into code in a clean way.
 
 <div style="display:flex;flex-gap:8px;flex-wrap:wrap;">
 <img src="https://github.com/hoseinABH/hoseinABH98/blob/main/javascript.webp" alt="javascript" style="width:200px;"/>
