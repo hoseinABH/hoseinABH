@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm hosein, a self-learner **Front-End Developer**, interested in work with with modern **JS** technologies. 
+I'm Hosein,Someone who turns ideas into code in a clean way.
 
 <div style="display:flex;flex-gap:8px;flex-wrap:wrap;">
 <img src="https://github.com/hoseinABH/hoseinABH98/blob/main/javascript.webp" alt="javascript" style="width:200px;"/>
